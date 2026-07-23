@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://shivang-rajput.github.io/portfolio",
+  "homepage": "https://shivang-rajput.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
