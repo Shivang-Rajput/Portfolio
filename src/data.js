@@ -59,7 +59,7 @@ export const projects = [
 
 // used by the About section — swap the photo in public/profile.jpg and fill in real details
 export const about = {
-  photo: '/profile.jpeg',
+  photo: '/Portfolio/profile.jpeg',
   role: 'Full-Stack Developer (MERN) · AI/ML Learner',
   location: 'Noida, India',
   education: 'B.Tech, Computer Science & Engineering',
