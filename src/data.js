@@ -95,7 +95,7 @@ export const education = [
 ]
 
 // swap this with the path to your uploaded resume once it's in /public
-export const resumeUrl = '/resume.pdf'
+export const resumeUrl = '/Portfolio/resume.pdf'
 
 export const stats = [
   { target: 5, label: 'Projects built' },
